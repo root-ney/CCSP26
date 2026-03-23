@@ -1,0 +1,46 @@
+
+span.Titles{
+    color:darkslateblue;
+    font-weight: bolder;
+    font-size:xx-large;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+span.Nav{
+    color:rgba(215, 176, 140, 0.758);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+}
+
+h4{
+    color: fuchsia;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+
+ h4{
+            color: darkcyan;
+            font-family: 'Courier New', Courier, monospace;
+            font-weight: bold;
+            font-size: larger;
+        }
+
+#teehee{
+    color: rgb(1, 172, 245);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    line-height: normal;
+}
+
+form{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: darkblue;
+}
+
+#form{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: rgb(139, 53, 0);
+}
